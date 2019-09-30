@@ -1,0 +1,23 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "testing the use of jest in a simple app",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggaytan00/test-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggaytan00/test-jest/issues"
+  },
+  "homepage": "https://github.com/ggaytan00/test-jest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
