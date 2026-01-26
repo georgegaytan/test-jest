@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ggaytan00/test-jest#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^30.2.0"
   }
 }
